@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Backend Api's Using Django**
 
-- 🌱 I’m currently learning **Flask Microservice**
+- 🌱 I’m currently learning **Flask **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amr1997](https://github.com/Amr1997)
 
